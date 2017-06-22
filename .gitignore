@@ -12,3 +12,4 @@ checkpoint
 htmlcov
 mnist
 notebooks/2_BasicModels/MNIST_data/
+notebooks/2_BasicModels/graphs/
